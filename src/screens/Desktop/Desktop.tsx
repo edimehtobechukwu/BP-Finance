@@ -267,7 +267,7 @@ export const Desktop = (): JSX.Element => {
               </div>
             </div>
             <p className="text-wrapper-14">Empowering Your Financial Future and Invest with .</p>
-          <video className='video-background' src="https://vimeo.com/870586060?share=copy"> </video>
+          <video autoPlay loop className='video-background' src="https://vimeo.com/870586060?share=copy"> </video>
           </div>
         </div>
         <img className="group-3" alt="Group" src="/img/group-1.png" />
