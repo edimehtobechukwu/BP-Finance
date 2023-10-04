@@ -680,6 +680,13 @@
   width: 416px;
 }
 
+.desktop .video-background {
+background-image: url(https://vimeo.com/870586060?share=copy);
+background-size: cover;
+height: fit-content;
+width: 100%;
+}
+
 .desktop .frame-15 {
   align-items: flex-start;
   display: inline-flex;
