@@ -257,6 +257,7 @@ export const Desktop = (): JSX.Element => {
         <div className="overlap-wrapper">
           <div className="overlap-2">
             <div className="overlap-group-wrapper">
+            <video autoPlay loop className='video-background' src="https://vimeo.com/870586060?share=copy"> </video>
               <div className="at-BP-finance-we-re-wrapper">
                 <p className="at-BP-finance-we-re">
                   At BP Finance, we&#39;re more than just a hedge fund management company; we&#39;re your trusted
@@ -267,7 +268,6 @@ export const Desktop = (): JSX.Element => {
               </div>
             </div>
             <p className="text-wrapper-14">Empowering Your Financial Future and Invest with .</p>
-          <video autoPlay loop className='video-background' src="https://vimeo.com/870586060?share=copy"> </video>
           </div>
         </div>
         <img className="group-3" alt="Group" src="/img/group-1.png" />
