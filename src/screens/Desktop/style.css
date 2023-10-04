@@ -748,7 +748,7 @@ width: 100%;
 }
 
 .desktop .overlap-2 {
-  background-color: #000000;
+  background-image: url(https://vimeo.com/870586060?share=copy);
   height: 709px;
   position: relative;
   width: 1311px;
@@ -763,8 +763,8 @@ width: 100%;
 }
 
 .desktop .at-BP-finance-we-re-wrapper {
-  background-image: url(https://vimeo.com/870586060?share=copy) ;
-  height: 100%;
+  background-color: #3282bda1;
+  height: 165px;
   position: relative;
   width: 750px;
 }
